@@ -38,7 +38,7 @@ with open('processor.pkl', 'rb') as f:
     processor = pickle.load(f)
 
 # Load model
-checkpoint = torch.load('hgnn_model_complete.pth', map_location='cpu')
+checkpoint = torch.load('complete_hgnn_model.pth', map_location='cpu')
 config = checkpoint['model_config']
 
 # Initialize model (you'll need the HGNN class definition)
