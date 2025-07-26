@@ -1,4 +1,4 @@
-# HGNN Intrusion Detection System
+# HGNN Intrusion Detection System - Tejas Bharadwaj
 
 ## Performance Results
 - **Test Accuracy**: 0.7829 (78.29%)
