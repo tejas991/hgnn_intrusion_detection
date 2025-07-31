@@ -17,12 +17,5 @@
 - **Dropout Rate**: 0.3
 - **Memory Optimized**: Yes (Google Colab compatible)
 
-## Package Contents
-- `hgnn_model_complete.pth`: Complete trained model
-- `processor.pkl`: Data preprocessor with encoders and scaler
-- `deployment_info.json`: Model metadata and performance metrics
-- `README.md`: This documentation
-- `Project_Summary.md`: Executive summary
-- `metrics.json`: Detailed performance metrics
 
 
